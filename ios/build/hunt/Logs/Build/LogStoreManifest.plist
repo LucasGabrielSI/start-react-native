@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3A65C979-6D47-476A-9FBE-708873251E78</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A65C979-6D47-476A-9FBE-708873251E78.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hunt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hunt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace hunt with scheme hunt and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585075498.27560103</real>
+			<key>timeStoppedRecording</key>
+			<real>585075550.15141904</real>
+			<key>title</key>
+			<string>Building workspace hunt with scheme hunt and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3A65C979-6D47-476A-9FBE-708873251E78</string>
+		</dict>
+		<key>E6F7D19F-0046-47CE-81AF-1B060565CBAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6F7D19F-0046-47CE-81AF-1B060565CBAF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hunt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hunt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace hunt with scheme hunt and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585074948.76165402</real>
+			<key>timeStoppedRecording</key>
+			<real>585074956.16266096</real>
+			<key>title</key>
+			<string>Building workspace hunt with scheme hunt and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E6F7D19F-0046-47CE-81AF-1B060565CBAF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
